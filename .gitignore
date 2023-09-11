@@ -1,6 +1,0 @@
-.env
-.venv
-env/
-venv/
-ENV/
-.flaskenv
